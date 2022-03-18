@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Logo" src="https://leadster.com.br/img/leadster/leadster.svg" width="600px">
-</h1>
-
 <p align="center">Projeto landingpage</p>
 
 
